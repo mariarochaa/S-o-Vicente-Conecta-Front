@@ -1,1 +1,1 @@
-# S-o-Vicente-Conecta-Front
+# São Vicente Conecta Front
